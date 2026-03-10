@@ -10,7 +10,7 @@ pipeline {
 
     steps{
 
-      git url:'<https://github.com/Krishnananda7/jenkins-simple-demo1.git>',
+      git url:'https://github.com/Likitha-046/demo-.git',
 
         branch: 'main'
 
